@@ -1,5 +1,5 @@
 package Projet;
 
-public class EquipementRéseau {
-
+public class EquipementRÃ©seau {
+  oui
 }
